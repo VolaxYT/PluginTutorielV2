@@ -1,0 +1,12 @@
+name: PluginTutorielV2
+main: fr.volax.plugintutoriel.PluginTutorielMain
+api-version: 1.13
+version: 1.0.00
+description: Plugin Tutoriel pour notre serie
+author: Volax
+commands:
+  test:
+    description: Commande de test
+    aliases: [teste, tests]
+  broadcast:
+    description: Commande de broadcast
