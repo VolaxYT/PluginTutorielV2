@@ -5,3 +5,4 @@ Ce github est un regroupement du code de mes vidéos disponible à cette adresse
 - Episode 1 - Les commandes: https://youtu.be/_tMzePWWKsk
 - Episode 2 - Les events: https://youtu.be/dtgP-2sV8Lo
 - Episode 3 - Les items: https://youtu.be/fw4c6fxju-8
+- Episode 4 - Les inventaires: non publié
