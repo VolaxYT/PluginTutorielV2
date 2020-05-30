@@ -1,0 +1,24 @@
+name: PluginTutorielV2
+main: fr.volax.plugintutoriel.PluginTutorielMain
+api-version: 1.13
+version: 1.0.00
+description: Plugin Tutoriel pour notre serie
+author: Volax
+commands:
+  test:
+    description: Commande de test
+    aliases: [teste, tests]
+  broadcast:
+    description: Commande de broadcast
+  setspawn:
+    description: Commande pour set les coordonnées du spawn
+  spawn:
+    description: Commande pour se téléporter aux coordonnées du spawnx
+  randomtp:
+    description: Commande pour se téléporter aléatoirement à des coordonnées non définis
+    aliases: [rtp]
+  coordonnees:
+    description: Commande pour se téléporter aléatoirement à des coordonnées définis
+    aliases: [location]
+  setcoordonnees:
+    description: Commande pour définir les coordonnées aléatoires
