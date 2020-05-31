@@ -8,4 +8,4 @@ Ce github est un regroupement du code de mes vidéos disponible à cette adresse
 - Episode 4 - Les inventaires: https://youtu.be/DnXxgdloKqc
 - Episode 5 - Les configs: https://youtu.be/ibg-wO2bjJA
 - Episode 6 - La téléportation: https://youtu.be/4IVe08KZAy4
-- Episode 7 - La téléportation aléatoire: **non upload**
+- Episode 7 - La téléportation aléatoire: https://youtu.be/ns3ysIf0HTg
