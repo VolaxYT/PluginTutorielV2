@@ -1,0 +1,14 @@
+messages:
+  test: "&cVous devez être un joueur pour executer cette commande !"
+  test-2: "coucou"
+  chiffre: 20
+
+spawn:
+  X: 0
+  Y: 0
+  Z: 0
+  yaw: 0
+  pitch: 0
+  worldName: world
+
+coordonnees:
