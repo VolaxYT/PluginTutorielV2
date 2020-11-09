@@ -10,3 +10,4 @@ Ce github est un regroupement du code de mes vidéos disponible à cette adresse
 - Episode 6 - La téléportation: https://youtu.be/4IVe08KZAy4
 - Episode 7 - La téléportation aléatoire: https://youtu.be/ns3ysIf0HTg
 - Episode 8 - Tab Completer: https://youtu.be/gVDiRKtfPaQ
+- Episode 9 - Les mobs: **Pas encore sorti**
