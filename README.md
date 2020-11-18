@@ -11,5 +11,6 @@ Ce github est un regroupement du code de mes vidéos disponible à cette adresse
 - Episode 7 - La téléportation aléatoire: https://youtu.be/ns3ysIf0HTg
 - Episode 8 - Tab Completer: https://youtu.be/gVDiRKtfPaQ
 - Episode 9 - Les mobs: **Pas encore sorti**
+- Episode 10 - Faction API: **Pas encore sorti**
 
 ***© Volax.***
