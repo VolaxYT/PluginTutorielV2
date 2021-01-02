@@ -1,0 +1,8 @@
+name: Mobs
+version: 1.0
+author: Volax
+description: Mobs
+main: fr.volax.mobs.MobsPlugin
+commands:
+  mobs:
+    description: Spawn mob
