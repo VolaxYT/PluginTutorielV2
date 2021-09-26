@@ -1,0 +1,7 @@
+name: Tutoriel
+main: fr.volax.tutoriel.TutorielMain
+version: 1.0
+author: Volax
+commands:
+  particles:
+    description: Activer/Désactiver la trainée de particules
