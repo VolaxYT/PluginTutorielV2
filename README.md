@@ -11,6 +11,6 @@ Ce github est un regroupement du code de mes vidéos disponible à cette adresse
 - Episode 7 - La téléportation aléatoire: https://youtu.be/ns3ysIf0HTg
 - Episode 8 - Tab Completer: https://youtu.be/gVDiRKtfPaQ
 - Episode 9 - Les mobs: https://youtu.be/YqfTfIMcykM
-- Episode 10 - **Pas encore sorti**
+- Episode 10 - Trainée de particules: https://youtu.be/bSC7EBJCP2w
 
 ***© Volax.***
